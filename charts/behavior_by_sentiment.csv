@@ -1,0 +1,4 @@
+sentiment,avg_trades,avg_size,avg_long_ratio,avg_win_rate
+Fear,105.363,8529.86,0.522,0.357
+Greed,76.912,5954.633,0.472,0.363
+Neutral,100.229,6963.695,0.472,0.355
